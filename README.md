@@ -3,8 +3,9 @@
 Machine-learning pipeline for **infrared thermography**:
 * **Regression:** estimate surface temperature from thermal imagery
 * **Classification:** flag normal vs. anomalous patterns
+  
+This README is purposefully rewritten and **does not reuse text** from my academic submission.
 
-This README is purposefully rewritten and does not reuse text from my academic submission.
 ---
 
 ## Why this repo exists
@@ -32,6 +33,7 @@ I wanted a clean, reusable implementation for working with IR images—separate 
 ├─ results/            # metrics and plots
 ├─ models/             # saved sklearn models
 ├─ requirements.txt
+├─ LICENSE
 └─ README.md
 ```
 
