@@ -27,11 +27,8 @@ I wanted a clean, reusable implementation for working with IR images—separate 
 
 ```
 .
-├─ src/                # scripts & helpers (dataset, features, train, evaluate)
-├─ notebooks/          # EDA / preprocessing exploration
+├─ src/                # scripts & helpers (dataset, features, train, and evaluate)
 ├─ data/               # see format below
-├─ results/            # metrics and plots
-├─ models/             # saved sklearn models
 ├─ requirements.txt
 ├─ LICENSE
 └─ README.md
