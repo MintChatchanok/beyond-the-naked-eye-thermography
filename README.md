@@ -16,10 +16,9 @@ I wanted a clean, reusable implementation for working with IR images—separate 
 
 ## What’s inside
 
-* **Preprocessing & features:** intensity stats + simple texture descriptors (GLCM/HOG ready)
+* **Preprocessing & features:** intensity stats + simple texture descriptors
 * **Two tasks, one pipeline:** shared features → split into regression and classification tracks
-* **Scriptable CLI:** train/evaluate from the terminal; notebooks only for EDA
-* **Reproducibility:** pinned dependencies and deterministic seeds
+* **Scriptable CLI:** train/evaluate from the terminal
 
 ---
 
