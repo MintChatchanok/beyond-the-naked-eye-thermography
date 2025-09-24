@@ -27,8 +27,11 @@ I wanted a clean, reusable implementation for working with IR images—separate 
 
 ```
 .
-├─ src/                # scripts & helpers (dataset, features, train, and evaluate)
-├─ data/               # see format below
+└── src/               
+    ├── dataset.py     # Data loading and preprocessing
+    ├── features.py    # Feature engineering
+    └── train_regression.py
+    └── train_classification.py
 ├─ requirements.txt
 ├─ LICENSE
 └─ README.md
