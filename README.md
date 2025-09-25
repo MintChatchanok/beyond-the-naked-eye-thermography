@@ -1,4 +1,4 @@
-# Beyond the Naked Eye — Thermography ML
+# 👀 Beyond the Naked Eye — Thermography ML
 
 Machine-learning pipeline for **infrared thermography**:
 * **Regression:** estimate surface temperature from thermal imagery
